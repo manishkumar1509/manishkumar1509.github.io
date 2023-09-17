@@ -46,8 +46,10 @@
                 This section creates the base table and finds the root json node.
                 */
                 var jsonTable = document.createElement("table");
-                var tr = jsonTable.insertRow(-1);   
-                jsonTable.style.width = "75%";
+                var tr = jsonTable.insertRow(-1);
+                jsonTable.style.margin="8%"   
+                jsonTable.style.width = "85%";
+                jsonTable.style.border = "solid"
                 let root;
                 for (let prop in data) {
                     root = prop;
