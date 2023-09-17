@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Eperiences": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Consultant",
+			"Company": "Thoughtworks India",
+			"Start": "August 2021",
+			"End": "July 2023"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Analyst",
+			"Company": "Standard Chartered Bank",
+			"Start": "September 2020",
+			"End": "July 2021"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Integration Enginnering Intern",
+			"Company": "Branch Metrics",
+			"Start": "January 2020",
+			"End": "March 2020"
 		}
 	]
 }
