@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--DTD for restaurants.xml-->
+<!--Resatuarnt metadata-->
+
+<!--restaurants is a list of restaurants-->
+<!ELEMENT restaurants(restaurant*)>
+
+<!ELEMENT restaurant(id, name, cuisine, city, open, close)>
+<!ELEMENT id(#PCDATA)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT cuisine(#PCDATA)>
+<!ELEMENT city(#PCDATA)>
+<!ELEMENT open(#PCDATA)>
+<!ELEMENT close(#PCDATA)>
